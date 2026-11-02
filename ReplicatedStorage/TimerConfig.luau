@@ -1,0 +1,5 @@
+return {
+	EPOCH = 1757000000,
+	TIME_SCALE = 1,
+	DAY_LENGTH = 600,
+}
